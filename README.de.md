@@ -21,6 +21,18 @@
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Musik-Bibliothek
+
+<p align="center"><img src="screenshots/01-music.jpg" alt="Musik-Bibliothek" width="850"></p>
+
+### 2️⃣ Hörspiele
+
+<p align="center"><img src="screenshots/02-audio-books.jpg" alt="Hörspiele" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Mediathek im Überblick:** Filme, Serien, Musik und Fotos mit Cover und Beschreibung.
